@@ -1,0 +1,31 @@
+{
+  "author": "Chris Roberts <chris@naxxfish.eu> (http://naxxfish.net/)",
+  "name": "rail-organ",
+  "version": "",
+  "scripts": {
+    "start": "node app.js",
+    "watch": "watchify src/main.js -o build/bundle.js",
+    "build": "browserify src/main.js -p tinyify -o build/bundle.js"
+  },
+  "dependencies": {
+    "browserify": "^16.2.3",
+    "browserify-shim": "^3.8.14",
+    "express": "^4.16.4",
+    "fetch": "^1.1.0",
+    "jquery": "^3.4.1",
+    "socket.io-client": "^2.2.0",
+    "soundfont-player": "^0.11.0"
+  },
+  "devDependencies": {
+    "tinyify": "^2.5.0",
+    "watchify": "^3.11.1"
+  },
+  "browserify": {
+    "transform": [
+      "browserify-shim"
+    ]
+  },
+  "browserify-shim": {
+    "./node_modules/jquery/dist/jquery.min.js": "$"
+  }
+}

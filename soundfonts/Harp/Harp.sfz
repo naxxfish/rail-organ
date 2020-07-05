@@ -1,0 +1,271 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : Harp
+// Author    : 
+// Copyright : 
+// Date      : 2019/05/09
+// Comment   : Sf2 imported from sfz by Polyphone
+
+<group>
+lokey=28 hikey=101
+lovel=0 hivel=127
+ampeg_attack=0.001
+ampeg_release=12.0003
+loop_mode=loop_continuous
+amplfo_freq=8.176
+fillfo_freq=8.176
+pitchlfo_freq=8.176
+fil_type=lpf_2p
+cutoff=19913
+
+<region>
+sample=samples\KSHarp_E1_f.wav
+volume=3
+lokey=28 hikey=29
+pitch_keycenter=28
+lovel=0 hivel=127
+offset=0
+end=1000285
+loop_start=0
+loop_end=1000284
+
+<region>
+sample=samples\KSHarp_G1_mp.wav
+volume=3
+lokey=30 hikey=32
+pitch_keycenter=31
+lovel=0 hivel=127
+offset=0
+end=297460
+loop_start=0
+loop_end=297459
+
+<region>
+sample=samples\KSHarp_B1_mf.wav
+volume=3
+lokey=33 hikey=36
+pitch_keycenter=35
+lovel=0 hivel=127
+offset=0
+end=570993
+loop_start=0
+loop_end=570992
+
+<region>
+sample=samples\KSHarp_D2_mf.wav
+volume=3
+lokey=37 hikey=39
+pitch_keycenter=38
+lovel=0 hivel=127
+offset=0
+end=435267
+loop_start=0
+loop_end=435266
+
+<region>
+sample=samples\KSHarp_F2_mf.wav
+volume=3
+lokey=40 hikey=42
+pitch_keycenter=41
+lovel=0 hivel=127
+offset=0
+end=771635
+loop_start=0
+loop_end=771634
+
+<region>
+sample=samples\KSHarp_A2_mf.wav
+volume=3
+lokey=43 hikey=46
+pitch_keycenter=45
+lovel=0 hivel=127
+offset=0
+end=501905
+loop_start=0
+loop_end=501904
+
+<region>
+sample=samples\KSHarp_C3_mf.wav
+volume=3
+lokey=47 hikey=49
+pitch_keycenter=48
+lovel=0 hivel=127
+offset=0
+end=395268
+loop_start=0
+loop_end=395267
+
+<region>
+sample=samples\KSHarp_E3_mf.wav
+volume=3
+lokey=50 hikey=53
+pitch_keycenter=52
+lovel=0 hivel=127
+offset=0
+end=615272
+loop_start=0
+loop_end=615271
+
+<region>
+sample=samples\KSHarp_G3_mf.wav
+volume=3
+lokey=54 hikey=56
+pitch_keycenter=55
+lovel=0 hivel=127
+offset=0
+end=451706
+loop_start=0
+loop_end=451705
+
+<region>
+sample=samples\KSHarp_B3_mf.wav
+volume=3
+lokey=57 hikey=60
+pitch_keycenter=59
+lovel=0 hivel=127
+offset=0
+end=495270
+loop_start=0
+loop_end=495269
+
+<region>
+sample=samples\KSHarp_D4_mf.wav
+volume=3
+lokey=61 hikey=63
+pitch_keycenter=62
+lovel=0 hivel=127
+offset=0
+end=480410
+loop_start=0
+loop_end=480409
+
+<region>
+sample=samples\KSHarp_F4_mf.wav
+volume=3
+lokey=64 hikey=66
+pitch_keycenter=65
+lovel=0 hivel=127
+offset=0
+end=478362
+loop_start=0
+loop_end=478361
+
+<region>
+sample=samples\KSHarp_A4_mf.wav
+volume=3
+lokey=67 hikey=70
+pitch_keycenter=69
+lovel=0 hivel=127
+offset=0
+end=535892
+loop_start=0
+loop_end=535891
+
+<region>
+sample=samples\KSHarp_C5_mf.wav
+volume=3
+lokey=71 hikey=73
+pitch_keycenter=72
+lovel=0 hivel=127
+offset=0
+end=309273
+loop_start=0
+loop_end=309272
+
+<region>
+sample=samples\KSHarp_E5_mf.wav
+volume=3
+lokey=74 hikey=77
+pitch_keycenter=76
+lovel=0 hivel=127
+offset=0
+end=292884
+loop_start=0
+loop_end=292883
+
+<region>
+sample=samples\KSHarp_G5_mf.wav
+volume=3
+lokey=78 hikey=80
+pitch_keycenter=79
+lovel=0 hivel=127
+offset=0
+end=262432
+loop_start=0
+loop_end=262431
+
+<region>
+sample=samples\KSHarp_B5_mf.wav
+volume=3
+lokey=81 hikey=84
+pitch_keycenter=83
+lovel=0 hivel=127
+offset=0
+end=194752
+loop_start=0
+loop_end=194751
+
+<region>
+sample=samples\KSHarp_D6_mf.wav
+volume=3
+lokey=85 hikey=87
+pitch_keycenter=86
+lovel=0 hivel=127
+offset=0
+end=171925
+loop_start=0
+loop_end=171924
+
+<region>
+sample=samples\KSHarp_F6_mf.wav
+volume=3
+lokey=88 hikey=90
+pitch_keycenter=89
+lovel=0 hivel=127
+offset=0
+end=103269
+loop_start=0
+loop_end=103268
+
+<region>
+sample=samples\KSHarp_A6_mf.wav
+volume=3
+lokey=91 hikey=93
+pitch_keycenter=93
+lovel=0 hivel=127
+offset=0
+end=159205
+loop_start=0
+loop_end=159204
+
+<region>
+sample=samples\KSHarp_B6_mf.wav
+volume=3
+lokey=94 hikey=96
+pitch_keycenter=95
+lovel=0 hivel=127
+offset=0
+end=120979
+loop_start=0
+loop_end=120978
+
+<region>
+sample=samples\KSHarp_D7_f.wav
+volume=3
+lokey=97 hikey=99
+pitch_keycenter=98
+lovel=0 hivel=127
+offset=0
+end=99021
+loop_start=0
+loop_end=99020
+
+<region>
+sample=samples\KSHarp_F7_f.wav
+volume=3
+lokey=100 hikey=101
+pitch_keycenter=101
+lovel=0 hivel=127
+offset=0
+end=83108
+loop_start=0
+loop_end=83107
